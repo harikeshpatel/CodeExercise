@@ -1,0 +1,1 @@
+for run script python solution.py file_name
